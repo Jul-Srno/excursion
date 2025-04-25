@@ -1,13 +1,13 @@
 * {
     background-color: black;
     text-align: center;
+    font-family: Verdana, sans-serif;
+    color: white;
   }
   
   h1 {
-     font-family: Verdana;
      font-weight: Normal;
      font-size: 50px;
-     color: white;
    }
   
   .cta {
@@ -16,19 +16,15 @@
   }
   
   p {
-    font-family: Verdana;
     font-size: 21px;
     color: gray;
   }
   
   h2 {
-    font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
-    color: white;
   }
   
   #brand {
     text-align: right;
-    color: gray;
   }
